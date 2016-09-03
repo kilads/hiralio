@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_invitation_drawer_drawer.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\activity_invitation_drawer_drawer.xml"
+    },
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_saved_image_drawer.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\activity_saved_image_drawer.xml"
+    },
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\invitation_drawer.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\invitation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\saved_image.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\saved_image.xml"
+    },
+    {
+        "merged": "C:\\Project\\Hiralio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Project\\Hiralio\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
